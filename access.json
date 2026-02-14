@@ -1,5 +1,9 @@
 {
-  "operator": "Sqweex",
-  "token": "codedune",
-  "id": 1
+  "users": [
+    {
+      "username": "root",
+      "password": "root",
+      "subscription_until": "2030-01-01"
+    }
+  ]
 }
